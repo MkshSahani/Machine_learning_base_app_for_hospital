@@ -1,0 +1,13 @@
+LIST OF PREDICTED DIABETES PATIENT
+
+Ganga    - UID - 45000
+satvik   - UID - 45002
+Nani     - UID - 45004
+Ram      - UID - 45008
+Naman    - UID - 45011
+Rajat    - UID - 45012
+Raghu    - UID - 45015
+Raman    - UID - 45016
+Raja     - UID - 45017
+Akash    - UID - 45025
+Betti    - UID - 45028

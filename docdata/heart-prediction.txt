@@ -1,0 +1,20 @@
+LIST OF PREDICTED HEART PATIENT
+
+Manav   - UID - 51000
+Milind  - UID - 51002
+Aisha   - UID - 51005
+Ritika  - UID - 51008
+Lalit   - UID - 51009
+Alisha  - UID - 51010
+Namo    - UID - 51011
+Raja    - UID - 51012
+Ganesh  - UID - 51013
+Parul   - UID - 51014
+Alita   - UID - 51015
+Malika  - UID - 51025
+Reena   - UID - 51026
+Ishita  - UID - 51029
+Shruti  - UID - 51030
+Kamal   - UID - 51031
+Kanika  - UID - 51032
+Krishna - UID - 51033
