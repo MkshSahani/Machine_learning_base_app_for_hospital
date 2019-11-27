@@ -1,4 +1,5 @@
 <h1>Machine Learning Based Application for Hospital</h1>
+<img src = "back.gif">
 <hr/>
 <h3>Tools Used : </h3>
 <ul>
