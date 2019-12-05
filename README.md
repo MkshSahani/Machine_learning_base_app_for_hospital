@@ -2,6 +2,10 @@
 <img src = "back.gif">
 <hr/>
 <h3>Tools Used : </h3>
+ <video width="320" height="240" controls>
+  <source src="myproject.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
 <ul>
 <li>Opencv</li>
 <li>Sklearn</li>
