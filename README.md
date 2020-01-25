@@ -1,7 +1,7 @@
 
 <h1>Machine Learning Based Application for Hospital</h1>
 
-<p>TO watch the working of the application you can watch this youtube video : https://www.youtube.com/watch?v=26Csu1QguNo </p>
+<p>To watch the working of the application you can watch this youtube video : https://www.youtube.com/watch?v=26Csu1QguNo </p>
 
 <img src = "back.gif">
 <hr/>
