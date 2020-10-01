@@ -30,13 +30,13 @@ model.train(np.asarray(Training_Data), np.asarray(Labels))
 
 print("done")
 
-face_classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+face_classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') # contain properties of face. 
 
 global user
 user = False
 
 global epo1
-epo1 = time.time()
+epo1 = time.time() # count time. 
 def face_detector(img, size = 0.5):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     faces = face_classifier.detectMultiScale(gray,1.3,5)
@@ -48,7 +48,7 @@ def face_detector(img, size = 0.5):
         cv2.rectangle(img, (x,y),(x+w,y+h),(0,255,255),2)
         roi = img[y:y+h, x:x+w]
         roi = cv2.resize(roi, (200,200))
-
+    # if face detectd do something. 
     return img,roi
 
 cap = cv2.VideoCapture(0)
